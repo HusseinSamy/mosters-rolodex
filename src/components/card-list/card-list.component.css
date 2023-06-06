@@ -1,0 +1,17 @@
+.cards-container {
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+  }
+  
+.container{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.main-text{
+    font-size: 3rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif       
+}
